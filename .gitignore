@@ -14,3 +14,6 @@ build
 # IDEs
 .idea
 .vscode
+
+
+.npmrc
